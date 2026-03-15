@@ -4,35 +4,31 @@ import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
-  {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
-    image: "/images/Solidx.png",
+    {
+    title: "Top Tutors Connect",
+    category: "Education Platform",
+    tools: "Node.js, Express.js, WebSockets, AWS, Zoom API, Redis",
+    image: "/images/Project/image.png",
+    link: "https://app.toptutorsforus.com"
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
-    image: "/images/radix.png",
+    title: "London Doctors Clinic",
+    category: "Healthcare Booking Platform",
+    tools: "React.js, Redux, JavaScript, Stripe API",
+    image: "/images/Project/image copy.png",
+    link: "https://pbldcbe.webdezign.uk/"
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
-    image: "/images/bond.png",
+    title: "Inventory Operations Dashboard",
+    category: "Internal Automation System",
+    tools: "React.js, Node.js, Express.js, MySQL, REST APIs",
+    image: "/images/Project/image copy 3.png"
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
-    image: "/images/sapphire.png",
-  },
-  {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
+    title: "Lerbee",
+    category: "Marketplace Platform",
+    tools: "Next.js, Node.js, Express.js, PostgreSQL",
+    image: "/images/Project/image copy 2.png"
   },
 ];
 
